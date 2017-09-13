@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20130118</CreaDate><CreaTime>17144800</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Conversion Tools.tbx\RasterToPolygon" Date="20130118" Time="171448">RasterToPolygon sbb_wtrshd D:\landry\polygon\poly.shp SIMPLIFY VALUE</Process></lineage></DataProperties></Esri></metadata>
