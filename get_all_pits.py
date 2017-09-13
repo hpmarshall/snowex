@@ -5,8 +5,7 @@ Created on Tue Sep 12 22:42:43 2017
 
 @author: hpm
 """
-#from IPython import get_ipython
-#get_ipython().magic('reset -sf')
+
 
 import pandas as pd
 import glob
@@ -39,25 +38,7 @@ def readSnowpit(filename):
     r.set_value(0,'SWE',SWE)
     return r
 
-
-
-
-#mylist={'UTMN':UTMN,'UTME':UTME,'UTMzone':UTMzone}
-#print(mylist)
-
-    # xl.sheet_names
-
-
-
-
 pits=pd.DataFrame(columns={'UTM_N','UTM_E','UTM_zone','date','time','depth','density','SWE'})
 for filename in glob.iglob('./Pit_output/**/*.xlsx', recursive=True): # loop over all GPS files
     r=readSnowpit(filename)
     pits=pits.append(r,'ignore_index=True') # append to pits data frame the current pit
-    
-    # function to parse pit data
-
-
-#os.chdir('Pit_Output/')
-#result = glob.glob( '*/**.xlsx' )
-#print( result )
