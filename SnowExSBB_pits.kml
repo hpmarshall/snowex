@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+   <Document>
+      <name>SnowExSBB_pits</name>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>  </description>
+         <name>1</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>/Users/hpm/D_DRIVE/SnowEx/DEM/icon13.png</href>
+               </Icon>
+               <scale>1</scale>
+               <color>ff00ffff</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-107.735347180918,37.9184920423231,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>  </description>
+         <name>2</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>/Users/hpm/D_DRIVE/SnowEx/DEM/icon13.png</href>
+               </Icon>
+               <scale>1</scale>
+               <color>ff00ffff</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-107.735980137566,37.9153143639653,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>  </description>
+         <name>3</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>/Users/hpm/D_DRIVE/SnowEx/DEM/icon13.png</href>
+               </Icon>
+               <scale>1</scale>
+               <color>ff00ffff</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-107.732205264953,37.9193490609013,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>  </description>
+         <name>4</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>/Users/hpm/D_DRIVE/SnowEx/DEM/icon13.png</href>
+               </Icon>
+               <scale>1</scale>
+               <color>ff00ffff</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-107.736494651189,37.9135451957574,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>  </description>
+         <name>5</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>/Users/hpm/D_DRIVE/SnowEx/DEM/icon13.png</href>
+               </Icon>
+               <scale>1</scale>
+               <color>ff00ffff</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-107.729928930143,37.9186990458418,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>  </description>
+         <name>H6</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>/Users/hpm/D_DRIVE/SnowEx/DEM/icon13.png</href>
+               </Icon>
+               <scale>1</scale>
+               <color>ff00ffff</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-107.733261553868,37.9163214687868,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>  </description>
+         <name>7</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>/Users/hpm/D_DRIVE/SnowEx/DEM/icon13.png</href>
+               </Icon>
+               <scale>1</scale>
+               <color>ff00ffff</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-107.733767086926,37.9145277802577,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>  </description>
+         <name>8</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>/Users/hpm/D_DRIVE/SnowEx/DEM/icon13.png</href>
+               </Icon>
+               <scale>1</scale>
+               <color>ff00ffff</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-107.73081865643,37.9169211902456,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>  </description>
+         <name>10</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>/Users/hpm/D_DRIVE/SnowEx/DEM/icon13.png</href>
+               </Icon>
+               <scale>1</scale>
+               <color>ff00ffff</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-107.730425867628,37.9146054009278,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>  </description>
+         <name>H13</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>/Users/hpm/D_DRIVE/SnowEx/DEM/icon13.png</href>
+               </Icon>
+               <scale>1</scale>
+               <color>ff00ffff</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-107.730228867809,37.9127426595638,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>  </description>
+         <name>14</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>/Users/hpm/D_DRIVE/SnowEx/DEM/icon13.png</href>
+               </Icon>
+               <scale>1</scale>
+               <color>ff00ffff</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-107.732570187221,37.9107708602943,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>  </description>
+         <name>17</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>/Users/hpm/D_DRIVE/SnowEx/DEM/icon13.png</href>
+               </Icon>
+               <scale>1</scale>
+               <color>ff00ffff</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-107.730470699422,37.9093597940993,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>  </description>
+         <name>20</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>/Users/hpm/D_DRIVE/SnowEx/DEM/icon13.png</href>
+               </Icon>
+               <scale>1</scale>
+               <color>ff00ffff</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-107.728421049379,37.9102183775283,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>  </description>
+         <name>21</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>/Users/hpm/D_DRIVE/SnowEx/DEM/icon13.png</href>
+               </Icon>
+               <scale>1</scale>
+               <color>ff00ffff</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-107.728476865194,37.9061890360601,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>  </description>
+         <name>22</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>/Users/hpm/D_DRIVE/SnowEx/DEM/icon13.png</href>
+               </Icon>
+               <scale>1</scale>
+               <color>ff00ffff</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-107.730564235742,37.907276015449,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>  </description>
+         <name>23</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>/Users/hpm/D_DRIVE/SnowEx/DEM/icon13.png</href>
+               </Icon>
+               <scale>1</scale>
+               <color>ff00ffff</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-107.726571153987,37.9044760277993,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>  </description>
+         <name>H25</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>/Users/hpm/D_DRIVE/SnowEx/DEM/icon13.png</href>
+               </Icon>
+               <scale>1</scale>
+               <color>ff00ffff</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-107.726265433332,37.9068831055459,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>  </description>
+         <name>27</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>/Users/hpm/D_DRIVE/SnowEx/DEM/icon13.png</href>
+               </Icon>
+               <scale>1</scale>
+               <color>ff00ffff</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-107.723953439173,37.9038067673525,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>  </description>
+         <name>28</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>/Users/hpm/D_DRIVE/SnowEx/DEM/icon13.png</href>
+               </Icon>
+               <scale>1</scale>
+               <color>ff00ffff</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-107.723446213494,37.9076302942632,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>  </description>
+         <name>H29</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>/Users/hpm/D_DRIVE/SnowEx/DEM/icon13.png</href>
+               </Icon>
+               <scale>1</scale>
+               <color>ff00ffff</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-107.723550161267,37.9055809709239,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>  </description>
+         <name>30</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>/Users/hpm/D_DRIVE/SnowEx/DEM/icon13.png</href>
+               </Icon>
+               <scale>1</scale>
+               <color>ff00ffff</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-107.720636562051,37.9045323527544,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>  </description>
+         <name>33</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>/Users/hpm/D_DRIVE/SnowEx/DEM/icon13.png</href>
+               </Icon>
+               <scale>1</scale>
+               <color>ff00ffff</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-107.717325172326,37.9035545800295,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>  </description>
+         <name>34</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>/Users/hpm/D_DRIVE/SnowEx/DEM/icon13.png</href>
+               </Icon>
+               <scale>1</scale>
+               <color>ff00ffff</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-107.717464340612,37.9073361163731,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>  </description>
+         <name>35</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>/Users/hpm/D_DRIVE/SnowEx/DEM/icon13.png</href>
+               </Icon>
+               <scale>1</scale>
+               <color>ff00ffff</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-107.711225529623,37.9102645977412,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>  </description>
+         <name>H36</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>/Users/hpm/D_DRIVE/SnowEx/DEM/icon13.png</href>
+               </Icon>
+               <scale>1</scale>
+               <color>ff00ffff</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-107.708756295126,37.9102657018956,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>  </description>
+         <name>H37</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>/Users/hpm/D_DRIVE/SnowEx/DEM/icon13.png</href>
+               </Icon>
+               <scale>1</scale>
+               <color>ff00ffff</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-107.714826984156,37.9061791105639,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>  </description>
+         <name>38</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>/Users/hpm/D_DRIVE/SnowEx/DEM/icon13.png</href>
+               </Icon>
+               <scale>1</scale>
+               <color>ff00ffff</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-107.711853261346,37.9050596041955,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>  </description>
+         <name>39</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>/Users/hpm/D_DRIVE/SnowEx/DEM/icon13.png</href>
+               </Icon>
+               <scale>1</scale>
+               <color>ff00ffff</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-107.709611057265,37.9081120529075,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>  </description>
+         <name>H40</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>/Users/hpm/D_DRIVE/SnowEx/DEM/icon13.png</href>
+               </Icon>
+               <scale>1</scale>
+               <color>ff00ffff</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-107.71132201111,37.9069141333236,0</coordinates>
+         </Point>
+      </Placemark>
+   </Document>
+</kml>
