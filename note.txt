@@ -1,1 +1,2 @@
-pit file was corrupt.  Need to redigitize this pit.
+39S pit file was corrupt.  Need to redigitize this pit.
+T03 on 2/9/17 was empty; removed file.  needs to be redigitized.
