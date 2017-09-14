@@ -2,7 +2,7 @@
 
 All the snowex UAVSAR data is stored at Alaska Satellite Facility. The bash scripts in this folder will download all the data from ASF and the `uavsar2netcdf.py` will convert the format:
 
-*be sure to modify asf.conf with your NASA login credentials*
+**be sure to modify asf.conf with your NASA login credentials**
 
 ```
 ./download_uavsar_interferograms.sh
