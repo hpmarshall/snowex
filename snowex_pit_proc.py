@@ -20,7 +20,7 @@ from osgeo import osr
 
 from pygeotools.lib import geolib
 
-topdir = '/Users/lsetiawan/Work/GitHub/snowex/Pit_Output'
+topdir = 'Pit_Output'
 os.chdir(topdir)
 #2017-02-06/PIT_L36/pit_20170206_L36.xlsx
 xlsx_fn_list = glob.glob('*/*/*.xlsx')
