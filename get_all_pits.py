@@ -21,6 +21,7 @@ def readSnowpit(filename):
     UTME=int(data['UTMN:'][2])
     UTMzone=data['UTMN:'][4]
     density=pd.read_excel(xl,sheetname=0,header=8,parse_cols='E:F')
+    # mean_density=density.dropna().mean().mean()
     mean_density=density.dropna().mean().mean()
     np.where(np.abs(mean_density)>=1000,np.nan,mean_density)
     data=pd.read_excel(xl,sheetname=0,header=0,parse_cols='F')
