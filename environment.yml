@@ -1,0 +1,17 @@
+name: snowex
+channels:
+- conda-forge
+dependencies:
+- python=3.6
+- jupyter
+- geopandas
+- seaborn
+- sqlalchemy
+- geojson
+- xarray
+- ulmo
+- lxml
+- folium
+- cartopy
+- pip:
+  - pygeotools
