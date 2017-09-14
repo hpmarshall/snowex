@@ -9,6 +9,8 @@ Created on Tue Sep 12 22:42:43 2017
 
 import pandas as pd
 import glob
+import numpy as np
+#import psycopg2
 
 def readSnowpit(filename):
     #filename='Pit_Output/2017-02-06/PIT_L36/pit_20170206_L36.xlsx'
@@ -20,6 +22,7 @@ def readSnowpit(filename):
     UTMzone=data['UTMN:'][4]
     density=pd.read_excel(xl,sheetname=0,header=8,parse_cols='E:F')
     mean_density=density.dropna().mean().mean()
+    np.where(np.abs(mean_density)>=1000,np.nan,mean_density)
     data=pd.read_excel(xl,sheetname=0,header=0,parse_cols='F')
     depth=float(data['Total Depth (cm)'][0])
     data=pd.read_excel(xl,sheetname=0,header=0,parse_cols='M')
@@ -39,6 +42,14 @@ def readSnowpit(filename):
     return r
 
 pits=pd.DataFrame(columns={'UTM_N','UTM_E','UTM_zone','date','time','depth','density','SWE'})
-for filename in glob.iglob('./Pit_output/**/*.xlsx', recursive=True): # loop over all GPS files
+for filename in glob.iglob('./Pit_output/**/*.xlsx',recursive=True): # loop over all GPS files
     r=readSnowpit(filename)
     pits=pits.append(r,'ignore_index=True') # append to pits data frame the current pit
+
+import json
+import sqlalchemy
+with open("postgres.json") as f:
+    db_conn_dict = json.load(f)
+cred_string = 'postgresql://{user}:{password}@{host}:{port}/{database}'.format(**db_conn_dict)
+dbeng = sqlalchemy.create_engine(cred_string)
+pits.to_sql('SnowEx_snowpits', dbeng)
