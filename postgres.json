@@ -1,7 +1,7 @@
 {
-"database": "geohack",
-"host": "dssg2017.csya4zsfb6y4.us-east-1.rds.amazonaws.com",
-"port": 5432,
-"user": "geohackadmin",
-"password": "g3oH4ckweek2017"
+  "database"  : "geohack",
+  "host"      : "dssg2017.csya4zsfb6y4.us-east-1.rds.amazonaws.com",
+  "port"      : 5432,
+  "user"      : "geohackadmin",
+  "password"  : "g3oH4ckweek2017"
 }
