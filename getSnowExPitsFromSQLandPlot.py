@@ -47,9 +47,8 @@ dataGeoLatLon=dataGeo.to_crs(epsg=4326)
 
 
 # lets read in the basin boundary shape file
-fig, ax1 = plt.subplots()
-
 import matplotlib.pyplot as plt
+fig, ax1 = plt.subplots()
 SBBboundary=gpd.read_file('SenatorBeckBasinBoundary/poly.shp')
 SBBboundaryLatLon=SBBboundary.to_crs(epsg=4326)
 
